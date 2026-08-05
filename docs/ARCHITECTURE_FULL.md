@@ -660,8 +660,8 @@ already read `DiscoveredBusiness` had to change to keep compiling or keep passin
 
 ### 8.2 Module dependency graph
 
-<a href="diagrams/discovery_module_dependency_graph.svg">
-  <img src="diagrams/discovery_module_dependency_graph.svg" width="900" alt="Discovery module dependency graph" />
+<a href="discovery_module_dependency_graph.svg">
+  <img src="discovery_module_dependency_graph.svg" width="900" alt="Discovery module dependency graph" />
 </a>
 
 *Click the image to open the full-resolution SVG in a new tab (infinitely zoomable — it's a
@@ -672,8 +672,8 @@ orchestration entry point.*
 
 ### 8.3 Pipeline data flow
 
-<a href="diagrams/digital_identity_pipeline_flow.svg">
-  <img src="diagrams/digital_identity_pipeline_flow.svg" width="900" alt="Digital identity pipeline data flow" />
+<a href="digital_identity_pipeline_flow.svg">
+  <img src="digital_identity_pipeline_flow.svg" width="900" alt="Digital identity pipeline data flow" />
 </a>
 
 *Click to open full-resolution. Rendered from `docs/diagrams/digital_identity_pipeline_flow.dot`.
